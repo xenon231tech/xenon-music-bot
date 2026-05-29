@@ -132,3 +132,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 **Made with 🚀 for the Web3 community**
+
+
+## Add unit tests
+- Implemented add unit tests
